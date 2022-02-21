@@ -1,6 +1,6 @@
 # ComputerGraphicsProgramming_2D-DrawingApplication
 
-### Important - If you want to test the applciation, head over to the "Test" directory/folder under "2D_DrawingApp" directory/folder and run the .exe file
+## Important - If you want to test the applciation, head over to the "Test" directory/folder under "2D_DrawingApp" directory/folder and run the .exe file
 
 Many off-the-shelf packages utilise graphics drawing functionality (e.g. interior design, 3D-modelling, computer gaming). The goal of this assignment is to build a basic shape-drawing application from first principles
 
